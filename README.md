@@ -1,4 +1,4 @@
-# Instagram Clone :photo
+# Desafio Instagram Clone 📸
 
 ## Conteudo:
 - Interface inicial da pagina
