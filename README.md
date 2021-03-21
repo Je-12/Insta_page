@@ -1,4 +1,4 @@
-# Desafio Instagram Clone 📸
+# Desafio: Instagram Clone 📸
 
 ## Conteudo:
 - Desafio da DIO ✅
