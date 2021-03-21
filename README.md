@@ -2,4 +2,4 @@
 
 ## Conteudo:
 - Desafio da DIO ✅
-- Interface inicial da pagina
+- Criação estática da Interface inicial da pagina
