@@ -2,4 +2,4 @@
 
 ## Conteudo:
 - Desafio da DIO ✅
-- Criação estática da Interface inicial da pagina
+- Criação estática: Interface inicial da pagina Instagram.
